@@ -1,10 +1,10 @@
 [
     {
       "type": "MOD_INFO",
-      "id": "new-easy-container",
-      "name": "Easy Container Rewrite",
+      "id": "easiest-containers",
+      "name": "Easiest Containers",
       "authors": ["Madladthad42"],
-      "description": "overrides all containers weight and length limits. NEEDS TO BE SET UP, READ THE README.",
+      "description": "NEEDS TO BE SET UP, READ THE README. overrides all containers weight and length limits.",
       "version": "experimental: 2026-04-07-1606"
     }
   ]
